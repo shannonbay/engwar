@@ -1,5 +1,5 @@
 # Engwar
-[Engwar](https://docs.google.com/spreadsheets/d/15yjJrg3t_tzWRxJy2wVlp7rjslmJzF0DUdi5D7wNzCE/edit#gid=0) is an alternative to [Braille](https://en.wikipedia.org/wiki/IPA_Braille) for those with sensory issues.  It aims to modernize Braille for mobile technology.
+[Engwar](https://docs.google.com/spreadsheets/d/15yjJrg3t_tzWRxJy2wVlp7rjslmJzF0DUdi5D7wNzCE/edit#gid=0) is a minimal alternative to [Braille](https://en.wikipedia.org/wiki/IPA_Braille) for those with sensory issues.  It aims to modernize Braille for mobile technology.
 
 Formally, Engwar is an English Phonemic orthography for the visually impaired.
 
