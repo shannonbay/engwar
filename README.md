@@ -1,6 +1,8 @@
 # Engwar
 [Engwar](https://docs.google.com/spreadsheets/d/15yjJrg3t_tzWRxJy2wVlp7rjslmJzF0DUdi5D7wNzCE/edit#gid=0) is an alternative to Braille for those with sensory issues.  It aims to modernize Braille for mobile technology.
 
+Formally, Engwar is an English Phonemic orthography.
+
 Advantages over standard braille include concise representation, and more intuitive spelling than English, because with Engwar, words are spelled exactly how they sound in spoken English.
 
 The Engwar alphabet is based on English phonemes rather than individual characters, with a phonetic spelling system. This approach streamlines reading, writing and spelling.
