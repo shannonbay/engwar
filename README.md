@@ -1,4 +1,6 @@
 # Engwar
+You already own a Bluetooth keyboard with only three buttons and 49 distinct inputs!
+
 [Engwar](https://docs.google.com/spreadsheets/d/15yjJrg3t_tzWRxJy2wVlp7rjslmJzF0DUdi5D7wNzCE/edit#gid=0) is a minimal alternative to [Braille](https://en.wikipedia.org/wiki/IPA_Braille) which grants a convenient input channel to mobile devices.
 
 If you own a headset with volume controls and a phone, you've got everything in your hands to run three-button wireless chorded keyboard for your phone - a bluetooth headsets with three buttons and an android app that detects pause/resume, vol+, vol-
