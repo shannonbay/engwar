@@ -1,5 +1,11 @@
 # Engwar
-[Engwar](https://docs.google.com/spreadsheets/d/15yjJrg3t_tzWRxJy2wVlp7rjslmJzF0DUdi5D7wNzCE/edit#gid=0) is a minimal alternative to [Braille](https://en.wikipedia.org/wiki/IPA_Braille) for those with sensory issues.  It aims to modernize Braille for mobile technology.
+[Engwar](https://docs.google.com/spreadsheets/d/15yjJrg3t_tzWRxJy2wVlp7rjslmJzF0DUdi5D7wNzCE/edit#gid=0) is a minimal alternative to [Braille](https://en.wikipedia.org/wiki/IPA_Braille) which grants a convenient input channel to mobile devices.
+
+If you own a headset with volume controls and a phone, you've got everything in your hands to run three-button wireless chorded keyboard for your phone - a bluetooth headsets with three buttons and an android app that detects pause/resume, vol+, vol-
+
+(3 buttons + 4 chords (3*2 + 1*3) )*(3 double tap/single tap/long press) = 21 distinct inputs.  When these inputs are semantically mapped to phonemes, it forms a complete input layer.
+
+It is also ideal for those with sensory issues.  It aims to modernize Braille for mobile technology.
 
 Formally, Engwar is an English Phonemic orthography for the visually impaired.
 
