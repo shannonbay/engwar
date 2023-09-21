@@ -4,6 +4,7 @@
 If you own a headset with volume controls and a phone, you've got everything in your hands to run three-button wireless chorded keyboard for your phone - a bluetooth headsets with three buttons and an android app that detects pause/resume, vol+, vol-
 
 (3 buttons + 4 chords (3*2 + 1*3) )*(3 double tap/single tap/long press) = 21 distinct inputs.  When these inputs are semantically mapped to phonemes, it forms a complete input layer.
+An even richer scheme breaks every phoneme into two taps - 7 * 7 = 49 combinations!
 
 It is also ideal for those with sensory issues.  It aims to modernize Braille for mobile technology.
 
