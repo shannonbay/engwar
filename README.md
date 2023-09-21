@@ -1,5 +1,5 @@
 # Engwar
-You already own a Bluetooth keyboard with only three buttons and 49 distinct inputs!
+You already own a mobile, wearable Bluetooth keyboard with only three buttons and 49 distinct inputs!
 
 [Engwar](https://docs.google.com/spreadsheets/d/15yjJrg3t_tzWRxJy2wVlp7rjslmJzF0DUdi5D7wNzCE/edit#gid=0) is a minimal alternative to [Braille](https://en.wikipedia.org/wiki/IPA_Braille) which grants a convenient input channel to mobile devices.
 
