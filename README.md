@@ -34,4 +34,12 @@ Unlike Braille, the grid is a wide 3 x 2 grid (better for forehead haptics).
 
 As you master Engwar, you'll be able to 'hear' the haptic through your fingers or forehead - a holy synesthesia.
 
+## TODO
+[ ] Perfect the phoneme selection and mappings
+[ ] Write the media-controls to Engwar Braille keyboard app
+[ ] Record the Engwar Phonemes
+[ ] Add the Engwar Phoneme recordings to the demo site
+[ ] Write a speech synthesizer app from Engwar phonemes to Audio.
+[ ] Write an ascii to Engwar converter eg ''' ''_  .'' _'' .:' -> ehhh ng ooo aaa rr 
+## Acknowledgements
 Engwar was inspired by Tolkien's Tengwar and Braille.
