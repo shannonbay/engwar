@@ -30,7 +30,7 @@ Since there are only six dots, Engwar combines glottis and palate as a single do
 
 Each dot signifies one of the six attributes, from top left to bottom right, proceeding from the lips towards the lungs through the six binary categories. 
 
-Unlike Braille, the grid is a wide 3 x 2 grid (better for forehead haptics).
+Unlike Braille, the grid is a wide 3 x 2 grid eg ::: This is better for forehead haptics.  Input is top row, bottom row.
 
 As you master Engwar, you'll be able to 'hear' the haptic through your fingers or forehead - a holy synesthesia.
 
