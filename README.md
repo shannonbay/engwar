@@ -10,7 +10,7 @@ An even richer scheme breaks every phoneme into two taps - 7 * 7 = 49 combinatio
 
 It is also ideal for those with sensory issues.  It aims to modernize Braille for mobile technology.
 
-Formally, Engwar is an English Phonemic orthography for the visually impaired.
+Formally, Engwar is a tactile English Phonemic orthography.
 
 Advantages over standard braille include concise representation, and more intuitive spelling than English, because with Engwar, words are spelled exactly how they sound in spoken English.
 
